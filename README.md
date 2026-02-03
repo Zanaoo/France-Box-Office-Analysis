@@ -6,4 +6,4 @@ This project scrapes Wikipedia data to analyze movie revenues.
 - **Trend:** Monthly revenue fluctuates heavily based on season.
 
 ## Visualization
-![Bar Chart](./top_films.png)
+![Bar Chart](top_films.png)
